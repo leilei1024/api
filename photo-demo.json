@@ -9,12 +9,12 @@
         {
             "id":2,
             "name":"num2",
-            "ctime":"http://p0.qhimg.com//bdm//1600_900_85//t0157678b977d6b422a.jpg"
+            "url":"http://p0.qhimg.com//bdm//1600_900_85//t0157678b977d6b422a.jpg"
         },
         {
             "id":3,
             "name":"num3",
-            "ctime":"http://p3.qhimg.com//bdm//1280_1024_85//t01de6d3fa6be341e41.jpg"
+            "url":"http://p3.qhimg.com//bdm//1280_1024_85//t01de6d3fa6be341e41.jpg"
         }
     ]
 }
